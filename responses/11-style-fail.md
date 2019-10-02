@@ -14,4 +14,4 @@ Let's try again!
 1. Click on **Commit changes**.
 
 <hr>
-<h3 align="center">I'll respond when I detect you've committed in this pull request.</h3>
+<h3 align="center">Responderé cuando hayas confirmado algún cambio (commit) en este pull request.</h3>

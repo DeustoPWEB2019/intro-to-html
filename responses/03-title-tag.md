@@ -1,4 +1,4 @@
-## Step 4: Add a page title
+## Paso 4: Add a page title
 
 Your web page is beginning to take shape! HTML and body tags are important, but their effect isn't too visible. Next, we'll make a visible change, by giving your page a title. Your page's title will show up on the title bar in your web browser, or as the title of any tabs you've got open. The title is used in all sorts of other places!
 
@@ -32,7 +32,7 @@ Finally, the `head` and `title` tags, will be children of the `html` tag, but si
 </html>
 ```
 
-### :keyboard: Activity: Give your page a title
+### :keyboard: Actividad: Give your page a title
 
 Apply this suggested change, or follow the instructions below if you'd like to type out the code manually.
 
@@ -53,4 +53,4 @@ Apply this suggested change, or follow the instructions below if you'd like to t
 1. Click on **Commit changes**.
 
 <hr>
-<h3 align="center">I'll respond when I detect you've committed in this pull request.</h3>
+<h3 align="center">Responderé cuando hayas confirmado algún cambio (commit) en este pull request.</h3>

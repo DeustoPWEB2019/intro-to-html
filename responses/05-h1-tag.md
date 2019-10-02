@@ -1,4 +1,4 @@
-## Step 6: Add a header
+## Paso 6: Add a header
 
 Take a peek at your shiny new web page! It can be found at: {{ pagesUrl }}
 
@@ -21,4 +21,4 @@ Headers create prominent text in the body of your web page. Headers come in diff
 8. Click on **Create pull request.**
 
 <hr>
-<h3 align="center">Look for my next response in your pull request</h3>
+<h3 align="center">Busca mi siguiente respuesta en tu pull request.</h3>

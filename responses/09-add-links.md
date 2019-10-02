@@ -1,4 +1,4 @@
-## Step 10: Add links to your list
+## Paso 10: Add links to your list
 
 ✅ Check
 ✅ That
@@ -21,7 +21,7 @@ Hyperlinks allow people to navigate through pages on the web. Links are achieved
       ```
 {% endif %}
 
-### :keyboard: Activity: Create links to your favorite sites
+### :keyboard: Actividad: Create links to your favorite sites
 
 Apply this suggested change, or follow the instructions below if you'd like to type out the code manually. Please note that the suggested change may not be in the proper place for your list, so make sure it is inside of a set of `<ol>` or `<ul>` tags.
 
@@ -47,4 +47,4 @@ Apply this suggested change, or follow the instructions below if you'd like to t
 2. Click on **Commit changes**.
 
 <hr>
-<h3 align="center">I'll respond when I detect you've committed in this pull request.</h3>
+<h3 align="center">Responderé cuando hayas confirmado algún cambio (commit) en este pull request.</h3>

@@ -1,4 +1,4 @@
-## Step 9: Create a list
+## Paso 9: Create a list
 
 Your site with your new photo can be seen at: {{ pagesUrl }}
 
@@ -40,7 +40,7 @@ And...
 
 For the next exercise, you are going to create a list of your favorite websites. Later, we will add links so you can access those links quickly. For now, focus on creating the individual list items.
 
-### :keyboard: Activity: Create a list of your favorite sites
+### :keyboard: Actividad: Create a list of your favorite sites
 
 1. Edit the `index.html` file in your master branch by [using this direct link]({{ repoUrl }}/edit/master/index.html) or going to the **Code** tab, clicking on the `index.html` file, clicking the pencil :pencil: to edit the HTML.
 1. Inside the body tag, create a list, either ordered or unordered, of your favorite sites on the internet.
@@ -52,4 +52,4 @@ For the next exercise, you are going to create a list of your favorite websites.
 1. Click on **Create pull request.**
 
 <hr>
-<h3 align="center">Look for my response in your new pull request</h3>
+<h3 align="center">Busca mi respuesta en el nuevo pull request.</h3>

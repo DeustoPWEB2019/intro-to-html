@@ -1,4 +1,4 @@
-## Step 3: Add HTML document structure
+## Paso 3: Add HTML document structure
 
 Great job opening a pull request @{{ user.username }}! I've gone ahead and closed your [previous issue]({{ welcomeLink }}). 
 
@@ -21,7 +21,7 @@ You may notice two copies of the HTML tag, and two copies of the body tag. We ca
 
 In HTML, spacing doesn't really matter. We've added some tabs to make the code easier to see, but the web browser will ignore the extra spacing. Now that you understand the building blocks of HTML, let's add HTML to the `index.html` file in your project.
 
-### :keyboard: Activity: Add the `html` and `body` tags to `index.html`
+### :keyboard: Actividad: Add the `html` and `body` tags to `index.html`
 
 Apply this suggested change, or follow the instructions below if you'd like to type out the code manually.
 
@@ -44,4 +44,4 @@ Apply this suggested change, or follow the instructions below if you'd like to t
 1. Click on **Commit changes**.
 
 <hr>
-<h3 align="center">I'll respond when I detect you've committed in this pull request.</h3>
+<h3 align="center">Responderé cuando hayas confirmado algún cambio (commit) en este pull request.</h3>

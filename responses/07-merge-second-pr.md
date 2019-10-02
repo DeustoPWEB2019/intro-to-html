@@ -1,14 +1,14 @@
-## Step 8: Merge your second pull request
+## Paso 8: Merge your second pull request
 
 :bowtie: What a spiffy photo, @{{ user.username }}!
 
 You can now merge in your pull request. Don't forget to delete your branch!
 
-### :keyboard: Activity: Merge the header and image 
+### :keyboard: Actividad: Merge the header and image 
 
-1. Click on **Merge pull request** below.
-1. Click on **Confirm merge**.
-1. Click on **Delete branch**.
+1. Haz clic en **Merge pull request** más abajo.
+1. Haz clic en **Confirm merge**.
+1. Haz clic en **Delete branch**.
 
 <hr>
-<h3 align="center">I'll respond when you've merged this pull request.</h3>
+<h3 align="center">Responderé cuando hayas combinado este pull request.</h3>

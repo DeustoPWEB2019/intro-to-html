@@ -1,4 +1,4 @@
-## Step 7: Add an image
+## Paso 7: Add an image
 
 Fantastico! Headers will help you highlight segments of your web page. 
 
@@ -10,7 +10,7 @@ So far, we've used tags that stand on their own. However, we sometimes need to s
 
 You'll also notice that the image tag doesn't need to close since it is considered to be an [empty](https://www.w3schools.com/html/html_elements.asp) tag.
 
-### :keyboard: Activity: Add an image to your web page
+### :keyboard: Actividad: Add an image to your web page
 
 Apply this suggested change, or follow the instructions below if you'd like to type out the code manually.
 
@@ -27,4 +27,4 @@ Apply this suggested change, or follow the instructions below if you'd like to t
 1. Click on **Commit changes**.
 
 <hr>
-<h3 align="center">I'll respond when I detect you've committed in this pull request.</h3>
+<h3 align="center">Responderé cuando hayas confirmado algún cambio (commit) en este pull request.</h3>

@@ -6,7 +6,7 @@ I didn't find the image! Here are some troubleshooting steps:
 
 Let's try again!
 
-### :keyboard: Activity: Add an image to your web page
+### :keyboard: Actividad: Add an image to your web page
 
 1. Click on **Files Changed**.
 1. Click on the ellipsis (...) and select **Edit file**.
@@ -16,4 +16,4 @@ Let's try again!
 1. Click on **Commit changes**.
 
 <hr>
-<h3 align="center">I'll respond when I detect you've committed in this pull request.</h3>
+<h3 align="center">Responderé cuando hayas confirmado algún cambio (commit) en este pull request.</h3>

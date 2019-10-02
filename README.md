@@ -1,6 +1,6 @@
 <p align="center"><a href="https://lab.github.com/"><img alt="Learning Lab bot" src="https://user-images.githubusercontent.com/16547949/62085817-83232580-b22a-11e9-8693-7c54205b04e5.png"></a></p>
 
-<h1 align="center">Course: Introduction to HTML </h1>
+<h1 align="center">Curso: Introducción a HTML </h1>
 
 This repository powers the Learning Lab course [_Introduction to HTML_](https://lab.github.com/githubtraining/introduction-to-html). 
 

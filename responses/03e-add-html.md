@@ -6,7 +6,7 @@ Uh oh, I didn't detect `<html>` and `<body>` tags. Here are some troubleshooting
 
 Let's try again!
 
-### :keyboard: Activity: Add the `html` and `body` tags to `index.html`
+### :keyboard: Actividad: Add the `html` and `body` tags to `index.html`
 
 1. Click on **Files Changed** to see the newly added `index.html` file.
 1. Click on the ellipsis (...) and select **Edit file**.
@@ -17,4 +17,4 @@ Let's try again!
 1. Click on **Commit changes**.
 
 <hr>
-<h3 align="center">I'll respond when I detect you've committed in this pull request.</h3>
+<h3 align="center">Responderé cuando hayas confirmado algún cambio (commit) en este pull request.</h3>

@@ -17,4 +17,4 @@ Let's try again!
 1. Click on **Create pull request.**
 
 <hr>
-<h3 align="center">I'll respond in your new pull request.</h3>
+<h3 align="center">Responderé en el nuevo pull request.</h3>
