@@ -1,56 +1,57 @@
-## Paso 4: Add a page title
+## Paso 4: Añadir una página de título
 
-Your web page is beginning to take shape! HTML and body tags are important, but their effect isn't too visible. Next, we'll make a visible change, by giving your page a title. Your page's title will show up on the title bar in your web browser, or as the title of any tabs you've got open. The title is used in all sorts of other places!
+¡Tu página web empieza a tomar forma! Las etiquetas `html` y `body` son importantes, pero su efecto no es muy visible. A continuación, haremos un cambio visible, añadiendo un título a la página. El título de tu página se mostrará en la barra de título de tu navegador, o como el título de alguna de las pestañas que tienes abiertas. El título se usa también en muchos otros sitios.
 
-![a screenshot of the title on a browser tab](https://user-images.githubusercontent.com/16547949/41006294-e990b476-68ee-11e8-8cfa-67c72c132095.png)
+![captura de pantalla del título en una pestaña del navegador](https://user-images.githubusercontent.com/16547949/41006294-e990b476-68ee-11e8-8cfa-67c72c132095.png)
 
-The title tag looks like this:
+La etiqueta de título tiene este aspecto:
 
 ```html
-<title>I am a title!</title>
+<title>Soy un título</title>
 ```
 
-But the title tag must be inside of a head tag. By now, you've noticed that tags have a hierarchical structure. In our prior example, the `html` tag was the parent of the `body` tag. In a similar fashion, the `head` tag will be the parent of the `title` tag, like so:
+Pero la etiqueta de título debe estar dentro de una etiqueta `head`, o cabecera. A estas alturas te habrás dado cuenta de que las etiquetas siguen una estructura jerárquica. En nuestro anterior ejemplo, la etiqueta `html` era _madre_ de la etiqueta `body`. Igualmente, la etiqueta `head` será la madre de la etiqueta `title`, así:
 
 ```html
 <head>
-    <title>I am a title!</title>
+    <title>Soy un título</title>
 </head>
 ```
 
-Finally, the `head` and `title` tags, will be children of the `html` tag, but siblings of the `body` tag.
+Finalmente, las etiquetas `head` y `title` serán _hijas_ de la etiqueta `html`, pero _hermanas_ de la etiqueta `body`.
 
 ```html
 <html>
     <head>
-        <title>I am a title!</title>
+        <title>Soy un título</title>
     </head>
 
     <body>
-        Some content.
+        Algo de contenido.
     </body>
 </html>
 ```
 
-### :keyboard: Actividad: Give your page a title
+### :keyboard: Actividad: Añade un título a tu página
 
-Apply this suggested change, or follow the instructions below if you'd like to type out the code manually.
+
+Aplica este cambio sugerido, o sigue las instrucciones de más abajo si prefieres teclear el código manualmente.
 
 ```suggestion
     <head>
-        <title>My awesome web page</title>
+        <title>Mi genial página web</title>
     </head>
 
 ```
 
-1. Click on **Files Changed**.
-1. Click on the ellipsis (...) and select **Edit file**.
-1. Place an opening `<head>` tag and an opening `<title>` tag after the first opening `html` tag, but before the `body` tag.
-1. Write out a title after the opening `title` tag.
-1. Place a closing `</title>` tag and a closing `</head>` tag after your new title, but before the `body` tag. 
-1. In the _Commit changes_ section, enter a commit message that describes what you've done.
-1. Ensure you've selected _Commit directly to the `add-index` branch_.
-1. Click on **Commit changes**.
+1. Haz clic en **Files Changed**.
+1. Haz clic en los puntos suspensivos (...) y selecciona **Edit file**.
+1. Coloca una etiqueta `<head>` de apertura y una etiqueta `<title>` de apertura después de la primera etiqueta `html` de apertura, pero antes de la etiqueta `body`.
+1. Escribe tu título después de la etiqueta `title` de apertura.
+1. Coloca una etiqueta `</title>` de cierre y una etiqueta `</head>` de cierre después de tu nuevo título, pero antes de la etiqueta `body`. 
+1. En la sección _Commit changes_, introduce un mensaje de commit que describa lo que acabas de hacer.
+1. Asegúrate de que has seleccionado _Commit directly to the `add-index` branch_.
+1. Haz clic en **Commit changes**.
 
 <hr>
 <h3 align="center">Responderé cuando hayas confirmado algún cambio (commit) en este pull request.</h3>

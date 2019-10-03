@@ -1,8 +1,8 @@
-## Paso 5: Merge your first pull request
+## Paso 5: Combina tu primer pull request
 
-:tada: Everything's going so well @{{ user.username }}! Now that you've got all the bits for a proper HTML page, let's merge it in and see how the browser interprets it.
+:tada: 'Todo va muy bien, @{{ user.username }}! Ahora que ya tienes todas las partes de una página HTML correcta, vamos a combinar los cambios y ver cómo la interpreta el navegador.
 
-### :keyboard: Actividad: Merge the HTML, head, title, and body tags
+### :keyboard: Actividad: Combina las etiquetas de HTML, encabezado, título y cuerpo
 
 1. Haz clic en **Merge pull request** más abajo.
 1. Haz clic en **Confirm merge**.

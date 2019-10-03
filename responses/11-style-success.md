@@ -1,10 +1,11 @@
-## Paso 13: Merge your final pull request
+## Paso 13: Combina tu último pull request
 
-Your styles look great, @{{ user.username }}.
+Tus estilos se ven genial, @{{ user.username }}.
 
-Go ahead and merge this pull request so we can all see the final result. Don't forget to delete your branch!
+Adelante, combina este pull request para que podamos ver el resultado final. ¡No olvides borrar tu branch!
 
-### :keyboard: Actividad: Merge the stylesheet
+### :keyboard: Actividad: Combina la hoja de estilos
+
 1. Haz clic en **Merge pull request** más abajo.
 1. Haz clic en **Confirm merge**.
 1. Haz clic en  **Delete branch**.

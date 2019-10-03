@@ -1,30 +1,30 @@
-# Let's build your first webpage
+# Construyamos tu primera página web
 
-HTML is the markup language that forms the backbone of the internet. In this course, you will learn how to build a clean, stunning webpage using HTML which you can set as your browser's default start page. This is only the first step in your journey, but it will form an important foundation in your journey as a new developer.
+HTML es el lenguaje de marcado que forma la columna vertebral de internet. En este curso aprenderás a crear un sitio web limpio e impresionante utilizando HTML, que podrás usar como página de inicio de tu navegador. Este será solo el primer paso en tu viaje, pero constituye una base importante en tu viaje como creador para web.
 
-![screenshot of final product](https://user-images.githubusercontent.com/16547949/41006151-5e97deee-68ee-11e8-8b52-84f38cd3e567.png)
+![captura de pantalla del producto final](https://user-images.githubusercontent.com/16547949/41006151-5e97deee-68ee-11e8-8b52-84f38cd3e567.png)
 
-## What is HTML?
+## ¿Qué es HTML?
 
-HTML stands for **H**yper **T**ext **M**arkup **L**anguage. HTML is not a programming language. It is simply a way to describe the structure of your website. Your web browser reads the HTML document and displays it in the window.
+HTML es el acrónimo de **H**yper **T**ext **M**arkup **L**anguage, o lenguaje de marcado para hipertexto. HTML **no** es un lenguaje de programación. Es simplemente una forma de describir la estructura de tus páginas. Tu navegador web lee el documento HTML y lo muestra en pantalla.
 
-## Where does your website begin?
+## ¿Dónde empieza tu sitio web?
 
-When someone enters your web address, the web standards will automatically look for a file called index.html and display it in your browser. Most people call this your home page.
+Cuando alguien introduce tu dirección web, los estándares web automáticamente buscan un archivo llamado index.html y lo muestran en tu navegador. Mucha gente llama a esto tu página principal o página de inicio.
 
-## Paso 1: Hosting your webpage
+## Paso 1: Alojar tu página de inicio
 
-It isn't enough to simply create a webpage on GitHub. You must deploy your webpage to a web host that is connected to the internet. For this course we will use GitHub Pages, but you could publish the HTML to any static host.
+No es suficiente con crear una página web en GitHub. Debes implementar tu página web a un servidor web que esté conectado a internet. Para este curso usaremos GitHub Pages, pero podrías publicar el HTML en cualquier servidor web.
 
-## :keyboard: Actividad: Turn on GitHub Pages
+## :keyboard: Actividad: Activa GitHub Pages
 
-1. Under your repository name, click [**Settings**]({{ repoUrl }}/settings).
-1. In the **GitHub Pages** section, use the **Select source** drop-down menu to select `master` as your GitHub Pages publishing source.
-1. Return to this issue.
+1. Debajo del nombre de tu repositorio, haz clic en [**Settings**]({{ repoUrl }}/settings).
+1. En la sección **GitHub Pages**, utiliza el desplegable **Select source** para seleccionar `master` como la fuente para la publicación de GitHub Pages.
+1. Vuelve a este issue.
 
-> _I may take up to a minute to respond as I wait for GitHub Pages to create a deployment of your repository. If you don't see anything after a minute, refresh this page_.
+> _Puede llevarme hasta un minuto responder mientras espero a que GitHub Pages haga la implementación de tu repositorio. Si no ves nada pasado un minuto, refresca esta página._
 
-> _For more information, see [Configuring a publishing source for GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/) in the GitHub Help._
+> _Para más información, consulta [Configuring a publishing source for GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/) en la ayuda de GitHub._
 
 <hr>
-<h3 align="center">I'll respond in this issue after GitHub Pages has finished deploying your site.</h3>
+<h3 align="center">Responderé a este issue después de que GitHub Pages haya terminado de implementar tu sitio.</h3>

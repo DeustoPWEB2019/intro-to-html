@@ -1,24 +1,25 @@
-I didn't detect an `<h1>` tag. Here are some troubleshooting steps:
+No he detectado ninguna etiqueta `<h1>`. Aquí tienes algunas pistas para ayudarte a resolver el problema:
 
-1. Check your spelling. We're checking specifically for the h1 tag: `<h1>`
-2. Check the order of your tags. The opening `<h1>` tag should appear first, followed by your content, and then the closing `</h1>` tag.
+1. Comprueba que no haya erratas. Estamos comprobando específicamente las siguientes etiquetas: h1 tag: `<h1>`
+2. Comprueba el orden de tus etiquetas. The opening `<h1>` tag should appear first, followed by your content, and then the closing `</h1>` tag.
 3. Make sure you placed the header inside the `<body>` tags.
-4. Ensure you modified the `index.html` file, and not some other file. 
+4. Asegúrate de que has modificado el archivo `index.html`, y no algún otro.  
 
-Let's try again!
+Vamos a volver a intentarlo.
 
-### :keyboard: Create a header for your web page
+### :keyboard: Crea un título de sección para tu página web
 
-1. Click on the **Code** tab.
-1. Click on the `index.html` file.
-1. Click the pencil :pencil: to edit the HTML.
-1. Inside the body tag, add an opening `<h1>` tag, some content for the header, and a closing `</h1>` tag. 
-1. In the _Commit changes_ section, enter a commit message that describes what you've done.
-1. Ensure you've selected _Create a new branch for this commit and start a pull request_.
-1. Give your branch a descriptive name, like `add-headers-and-images`.
-1. Click on **Commit changes**.
-1. Give your pull request a title, and a comment.
-1. Click on **Create pull request.**
+
+1. Haz clic en la pestaña **Code**.
+2. Haz clic en el archivo `index.html`.
+3. Haz clic en el icono del lápiz :pencil: para editar el HTML.
+2. Dentro de la etiqueta `body`, añade una etiqueta `<h1>` de apertura, algo de contenido para el título, y una etiqueta `</h1>` de cierre. 
+1. En la sección _Commit changes_, introduce un mensaje de commit que describa lo que acabas de hacer.
+4. Asegúrate de que has seleccionado _Create a new branch for this commit and start a pull request_.
+5. Dale a tu branch un nombre descriptivo, como `add-headers-and-images`.
+6. Haz clic en **Propose file change**.
+7. Dale un título a tu pull request, y una descripción.
+8. Haz clic en **Create pull request.**
 
 <hr>
-<h3 align="center">I'll respond when you open a pull request.</h3>
+<h3 align="center">Responderé cuando hayas abierto un pull request.</h3>

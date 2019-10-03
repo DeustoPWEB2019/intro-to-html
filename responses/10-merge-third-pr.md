@@ -1,10 +1,10 @@
-## Paso 11: Merge your third pull request
+## Paso 11: Combina tu tercer pull request
 
-Those links are looking great, @{{ user.username }}.
+Esos enlaces tienen muy buena pinta, @{{ user.username }}.
 
-Go ahead and merge this pull request. Don't forget to delete your branch!
+Adelante, puedes combinar este pull request. ¡No olvides borrar tu branch!
 
-### :keyboard: Actividad: Merge the list and links
+### :keyboard: Actividad: Combina la lista y los enlaces
 
 1. Haz clic en **Merge pull request** más abajo.
 1. Haz clic en **Confirm merge**.

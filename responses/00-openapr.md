@@ -1,17 +1,17 @@
-## Paso 2: Open a pull request
+## Paso 2: Abrir un pull request
 
-GitHub Pages is now serving your web page at: {{ pagesUrl }}
+GitHub Pages está mostrando tu sitio web en: {{ pagesUrl }}
 
-It's not very special looking yet, is it? Web hosts (and GitHub Pages) look for a file titled `index.html` and serve that up. Since there's no `index.html` file in our repository, GitHub Pages displays the contents of the README by default. Let's change this by adding the `index.html` file to our repository.
+No parece nada muy especial todavía, ¿verdad? Los servidores web (y GitHub Pages) buscan un archivo llamado `index.html` y lo muestran. Como no hay ningún `index.html` en nuestro repositorio, GitHub Pages muestra el contenido de README por defecto. Cambiemos esto añadiendo un archivo `index.html` a nuestro repositorio.
 
-### :keyboard: Actividad: Add `index.html`
+### :keyboard: Actividad: Añade `index.html`
 
-To help you get started, I have already created an `index.html` file for you on a branch called: `add-index`. All you need to do is create the pull request. Don't worry, I'll help you!
+Para ayudarte a empezar, ya he creado un archivo `index.html` en un branch llamado `add-index`. Todo lo que tienes que hacer es crear el pull request. No te preocupes, ¡también te ayudaré con eso!
 
-1. Create a pull request. You can either [use this direct link]({{ repoUrl }}/compare/master...add-index?expand=1), or go to the **Code** tab, click on **New Pull Request**, select **base: master**, and **compare: add-index**.
-2. Add a descriptive title to your pull request, something like "Add the index.html file".
-3. Add a descriptive body to your pull request.
-4. Click **Create pull request**.
+1. Crea un pull request. Puedes [usar este enlace directo]({{ repoUrl }}/compare/master...add-index?expand=1) o ir a la pestaña **Code**, hacer clic en **New Pull Request**, seleccionar **base: master** y **compare: add-index**.
+2. Añade un título descriptivo a tu pull request, algo como "Añadir el archivo index.hmtl".
+3. Añade una descripción a tu pull request.
+4. Haz clic en **Create pull request**.
 
 <hr>
 <h3 align="center">Responderé en el nuevo pull request.</h3>

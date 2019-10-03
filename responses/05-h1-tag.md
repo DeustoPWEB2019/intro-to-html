@@ -1,24 +1,24 @@
-## Paso 6: Add a header
+## Paso 6: Añade un título de sección
 
-Take a peek at your shiny new web page! It can be found at: {{ pagesUrl }}
+¡Échale un ojo a tu flamante nueva página web! Puedes verla aquí: {{ pagesUrl }}
 
-Headers create prominent text in the body of your web page. Headers come in different levels. For example, a header 1, or h1, is the largest, while a header 3, or h3, is smaller, and a header 6, or h6, smaller still. You can create headers in html using the h1, h2, h3, h4, h5, and h6 tags. Here's an example:
+Los títulos de sección crean texto que resalta en el cuerpo de tu página web. Los títulos de sección (o _headers_) pueden tener diferentes niveles. Por ejemplo, un título de primer nivel, o h1, es el más grande, mientras que un título de tercer nivel, o h3, es más pequeño, y un título de sexto nivel, o h6, más pequeño todavía. Puedes crear títulos de sección en HTML usando las etiquetas h1, h2, h3, h4, h5 y h6. Aquí tienes un ejemplo:
 
 ```html
-<h1>I'm a header 1!</h1>
+<h1>Soy un título de primer nivel</h1>
 ```
 
-### :keyboard: Create a header for your web page
+### :keyboard: Crea un título de sección para tu página web
 
 
-1. Edit the `index.html` file in your master branch by [using this direct link]({{ repoUrl }}/edit/master/index.html) or going to the **Code** tab, clicking on the `index.html` file, clicking the pencil :pencil: to edit the HTML.
-2. Between the body tags, add an opening `<h1>` tag, some content for the header, and a closing `</h1>` tag. 
-3. In the _Commit changes_ section, enter a commit message that describes what you've done.
-4. Ensure you've selected _Create a new branch for this commit and start a pull request_.
-5. Give your branch a descriptive name, like `add-headers-and-images`.
-6. Click on **Propose file change**.
-7. Give your pull request a title, and a comment.
-8. Click on **Create pull request.**
+1. Edita el archivo `index.html` en tu branch `master` [usando este enlace directo]({{ repoUrl }}/edit/master/index.html) o yendo a la pestaña **Code**, haciendo clic en el archivo `index.html` y clic en el icono del lápiz :pencil: para editar el HTML.
+2. Entre las dos etiquetas `body`, añade una etiqueta `<h1>` de apertura, algo de contenido para el título, y una etiqueta `</h1>` de cierre. 
+1. En la sección _Commit changes_, introduce un mensaje de commit que describa lo que acabas de hacer.
+4. Asegúrate de que has seleccionado _Create a new branch for this commit and start a pull request_.
+5. Dale a tu branch un nombre descriptivo, como `add-headers-and-images`.
+6. Haz clic en **Propose file change**.
+7. Dale un título a tu pull request, y una descripción.
+8. Haz clic en **Create pull request.**
 
 <hr>
 <h3 align="center">Busca mi siguiente respuesta en tu pull request.</h3>

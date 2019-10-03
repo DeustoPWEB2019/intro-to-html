@@ -1,50 +1,50 @@
-## Paso 10: Add links to your list
+## Paso 10: Añade enlaces a tu lista
 
-✅ Check
-✅ That
-✅ Off your list!
+✅ ¡Marca eso
+✅ como completado
+✅ en tu lista!
 
-Great job with lists. Let's try adding some links, shall we?
+Gran trabajo con las listas. Vamos a intentar añadir algunos enlaces, ¿te parece?
 
-### About hyperlinks
+### Sobre los hiperenlaces
 
-Hyperlinks allow people to navigate through pages on the web. Links are achieved with the anchor tag, `<a>`, and have two major components: the location they link to, and the content that should be linked. The location of the link is specified as a `href` attribute, and the content that should be linked can be specified between the opening and closing tags, like this:
+Los hiperenlaces permiten a las personas navegar entre las páginas de la web. Los enlaces se consiguen con la etiqueta de ancla, `<a>`, y tienen dos componentes principales: la ubicación a la que enlazan, y el contenido que debería funcionar como enlace. La ubicación del enlace se especifica como un atributo `href`, y el contenido que debería funcionar como enlace puede especificarse entre etiquetas de apertura y cierre, así:
 
 {% if GHE_HOST %}
   https://pages.{{ GHE_HOST }}/{{ user.login }}/{{ repo }}
         ```html
-      <li><a href="https://{{ GHE_HOST }}">This is a link to GitHub!</a></li>
+      <li><a href="https://{{ GHE_HOST }}">Esto es un enlace a GitHub</a></li>
       ```
 {% else %}
       ```html
-      <li><a href="https://github.com">This is a link to GitHub!</a></li>
+      <li><a href="https://github.com">Esto es un enlace a GitHub</a></li>
       ```
 {% endif %}
 
-### :keyboard: Actividad: Create links to your favorite sites
+### :keyboard: Actividad: Crea los enlaces a tus páginas favoritas
 
-Apply this suggested change, or follow the instructions below if you'd like to type out the code manually. Please note that the suggested change may not be in the proper place for your list, so make sure it is inside of a set of `<ol>` or `<ul>` tags.
+Aplica este cambio sugerido, o sigue las instrucciones de más abajo si prefieres teclear el código manualmente. Ten en cuenta que el cambio sugerido puede no estar en el sitio correcto en tu lista, así que asegúrate de que está dentro de un par de etiquetas `<ol>` o `<ul>`.
 
 ```suggestion
-      <li>My favorite site is <a href="https://github.com">GitHub</a>!</li>
+      <li>Mi sitio favorito es <a href="https://github.com">GitHub</a></li>
 ```
 
-1. Click on **Files Changed**.
-1. Click on the ellipsis (...) and select **Edit file**.
-1. In the list you just created, add a link to each of your favorite sites to their respective URLs. You can do this by adding an opening anchor tag `<a>` tag with `href` attribute with your favorite site's URL, the name of the site inside the anchor tag, and a closing anchor `</a>` tag. Here is an example of a list item with a link:
+1. Haz clic en **Files Changed**.
+1. Haz clic en los puntos suspensivos (...) y selecciona **Edit file**.
+1. En la lista que acabas de crear, añade un enlace a cada uno de tus sitios favoritos hacia sus respectivas URLs. Puedes hacer esto añadiendo una etiqueta de ancla de apertura, `<a>`, con un atributo `href` que indique la URL del sitio, el nombre del sitio dentro de la etiqueta de ancla, y una etiqueta de ancla de cierre, `</a>`. Aquí tienes un ejemplo de elemento de lista con enlace:
 
 {% if GHE_HOST %}
         ```html
-      <li><a href="https://{{ GHE_HOST }}">This is a link to GitHub!</a></li>
+      <li><a href="https://{{ GHE_HOST }}">Esto es un enlace a GitHub</a></li>
       ```
 {% else %}
       ```html
-      <li><a href="https://github.com">This is a link to GitHub!</a></li>
+      <li><a href="https://github.com">Esto es un enlace a GitHub</a></li>
       ```
 {% endif %}
 
-1. In the _Commit changes_ section, enter a commit message that describes what you've done.
-2. Click on **Commit changes**.
+1. En la sección _Commit changes_, introduce un mensaje de commit que describa lo que acabas de hacer.
+2. Haz clic en **Commit changes**.
 
 <hr>
 <h3 align="center">Responderé cuando hayas confirmado algún cambio (commit) en este pull request.</h3>
