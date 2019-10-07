@@ -7,7 +7,7 @@ template:
   description: "Repositorio de entrenamiento gestionado por un robot :robot:"
 before:
   - type: createIssue
-    title: Bienveida
+    title: Bienvenida
     body: 01-welcome.md
   - type: updateBranchProtection
 
