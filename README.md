@@ -2,24 +2,24 @@
 
 <h1 align="center">Curso: Introducción a HTML </h1>
 
-This repository powers the Learning Lab course [_Introduction to HTML_](https://lab.github.com/githubtraining/introduction-to-html). 
+Este repositorio alimenta el curso de Learning Lab [_Introducción a HTML_](https://lab.github.com/DeustoPWEB2019/introduccion-a-html). 
 
-Every Learning Lab course is made up of:
-- a [course repository](https://github.com/githubtraining/intro-to-html/), and
-- a [template repository](https://github.com/githubtraining/intro-to-html-template)
+Cada curso de Learning Lab se compone de:
+- un [repositorio para el curso](https://github.com/DeustoPWEB2019/intro-to-html) y
+- un [repositorio-plantilla](https://github.com/DeustoPWEB2019/intro-to-html-template)
 
-The course repository is written in YAML and Markdown. The template repository could be written in any language that supports the learning objectives.
+El repositorio del curso está escrito en YAML y Markdown. El repositorio-plantilla podría estar escrito en cualquier lenguaje que contribuya a los objetivos de aprendizaje.
 
-For more information on the goals of this course, check out the [`course-details.md`](course-details.md). 
+Para más información sobre los objetivos de este curso, comprueba los [`course-details.md`](course-details.md). 
 
-## Contribute
+## Contribuye
 
-See something we could improve? Check out the contributing guide in the [community contributors repository](https://github.com/githubtraining/community-contributors/blob/master/CONTRIBUTING.md) for more information on the types of contributions we :heart: and instructions.
+¿Ves algo que podrías mejorar? Comprueba la guía para contribuciones en el [repositorio de contribuciones de la comunidad](https://github.com/githubtraining/community-contributors/blob/master/CONTRIBUTING.md) para más información acerca del tipo de contribuciones que nos :heart: e instrucciones.
 
-We :heart: our community and take great care to ensure it is fun, safe and rewarding. Please review our [Code of Conduct](https://github.com/githubtraining/community-contributors/blob/master/CODE_OF_CONDUCT.md) for community expectations and guidelines for reporting concerns.
+Nos :heart: nuestra comunidad y nos preocupamos mucho por asegurarnos de que sea entretenida, segura y gratificante. Por favor, revisa nuestro [Código de Conducta](https://github.com/githubtraining/community-contributors/blob/master/CODE_OF_CONDUCT.md) para saber más acerca de lo que se espera desde la comunidad y algunas orientaciones para informar sobre tus preocupaciones.
 
-## License
+## Licencia
 
-All Learning Lab course repositories are licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc. The template repositories associated with each course may have different licenses.
+Todos los repositorios de cursos de Learning Lab tienen una licencia [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc. Los repositorios-plantilla asociados con cada curso podrían tener diferentes licencias.
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos)
+Cuanto utilices logos de GitHub, asegúrate de hacerlo usando [las orientaciones para el logo de GitHub](https://github.com/logos).
